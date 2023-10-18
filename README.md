@@ -9,4 +9,5 @@ Functionalities:
 
 This isn't finished, might update it when i have time and the motivation. 
 
-![image](https://github.com/NNoGalaxy/discordSocialMedia/assets/58949613/11d74756-9377-48ea-9653-5ccbd65233c1)
+![image](https://github.com/NNoGalaxy/discordSocialMedia/assets/58949613/bc6e3db0-ffaf-45e0-9fb0-255b33cfb7e2)
+
